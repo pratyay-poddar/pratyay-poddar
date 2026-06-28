@@ -6,7 +6,7 @@
   <a href="https://pratyay-poddar.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-I'm **Pratyay Poddar**, a Computer Science and Engineering student at the **Institute of Engineering & Management (IEM), Kolkata** (2026 - 2030)[cite: 1]. 
+I'm **Pratyay Poddar**, a Computer Science and Engineering student at the **Institute of Engineering & Management (IEM), Kolkata** (2026 - 2030). 
 
 I am driven to build robust, highly efficient server-side architectures and solve complex engineering challenges[cite: 1]. If an idea pops into my head, chances are I'll map out the architecture, spin up a server, and ship it.
 
