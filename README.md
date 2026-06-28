@@ -8,8 +8,19 @@
 
 I'm **Pratyay Poddar**, a Computer Science and Engineering student at the **Institute of Engineering & Management (IEM), Kolkata** (2026 - 2030). 
 
-I am driven to build robust, highly efficient server-side architectures and solve complex engineering challenges[cite: 1]. If an idea pops into my head, chances are I'll map out the architecture, spin up a server, and ship it.
+I am driven to build robust, highly efficient server-side architectures and solve complex engineering challenges.I maintain a daily coding routine, constantly tackling new algorithmic challenges and optimizing performance.
 
+If you want to see what I'm working on, check out my repositories below!
+
+Fun Facts:
+
+Daily Ritual: I'm a big fan of milk-based flavored coffee, specifically English Butterscotch.
+
+Bookshelf: "Atomic Habits" and "Deep Work" are my blueprints for productivity.
+
+Streaks: I love a good coding challenge.
+
+Hobbies: Writing low-level code, optimizing data structures, and continuous learning.
 ---
 
 ### 🛠️ Technical Competency
