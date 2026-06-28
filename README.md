@@ -1,9 +1,9 @@
 # Hey there! 👋
 <p align="left">
+   <a href="https://pratyay-poddar.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pratyay-poddar-561869308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pratyay222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/pratyay-poddar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://pratyay-poddar.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 I'm **Pratyay Poddar**, a Computer Science and Engineering student at the **Institute of Engineering & Management (IEM), Kolkata** (2026 - 2030). 
@@ -14,13 +14,13 @@ If you want to see what I'm working on, check out my repositories below!
 ---
 ### Fun Facts:
 
-* **Daily Ritual: I'm a big fan of milk-based flavored coffee, specifically English Butterscotch.
+* Daily Ritual: I'm a big fan of milk-based flavored coffee, specifically English Butterscotch.
 
-* **Bookshelf: "Atomic Habits" and "Deep Work" are my blueprints for productivity.
+* Bookshelf: "Atomic Habits" and "Deep Work" are my blueprints for productivity.
 
-* **Streaks: I love a good coding challenge.
+* Streaks: I love a good coding challenge.
 
-* **Hobbies: Writing low-level code, optimizing data structures, and continuous learning.
+* Hobbies: Writing low-level code, optimizing data structures, and continuous learning.
 ---
 
 ### 🛠️ Technical Competency
