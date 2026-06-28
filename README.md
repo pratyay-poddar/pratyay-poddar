@@ -11,16 +11,16 @@ I'm **Pratyay Poddar**, a Computer Science and Engineering student at the **Inst
 I am driven to build robust, highly efficient server-side architectures and solve complex engineering challenges.I maintain a daily coding routine, constantly tackling new algorithmic challenges and optimizing performance.
 
 If you want to see what I'm working on, check out my repositories below!
+---
+### Fun Facts:
 
-Fun Facts:
+* **Daily Ritual: I'm a big fan of milk-based flavored coffee, specifically English Butterscotch.
 
-Daily Ritual: I'm a big fan of milk-based flavored coffee, specifically English Butterscotch.
+* **Bookshelf: "Atomic Habits" and "Deep Work" are my blueprints for productivity.
 
-Bookshelf: "Atomic Habits" and "Deep Work" are my blueprints for productivity.
+* **Streaks: I love a good coding challenge.
 
-Streaks: I love a good coding challenge.
-
-Hobbies: Writing low-level code, optimizing data structures, and continuous learning.
+* **Hobbies: Writing low-level code, optimizing data structures, and continuous learning.
 ---
 
 ### 🛠️ Technical Competency
